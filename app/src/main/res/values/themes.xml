@@ -6,4 +6,9 @@
     </style>
 
     <style name="Theme.SummerPractice24" parent="Base.Theme.SummerPractice24" />
+    <style name="AppTitle" parent="Widget.AppCompat.TextView">
+        <item name="android:textColor">
+            @color/red
+        </item>
+    </style>
 </resources>
