@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">SummerPractice24</string>
+    <string name="action_1">First</string>
+    <string name="action_2">Second</string>
+    <string name="action_3">Third</string>
+    <string name="action_4">Fourth</string>
+    <string name="action_5">Fifth</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
 </resources>
